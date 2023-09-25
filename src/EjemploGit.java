@@ -4,5 +4,6 @@ public class EjemploGit {
 	{
 		System.out.println("Hola este es un curso de git con eclipse");
 		String nombre = "Giovani Bonilla";
+		System.out.print(nombre);
 	}
 }
